@@ -1,0 +1,49 @@
+_repo: The-Works-of-Theophile-Gautier-Volume-5The-Romance-of-a-Mummy-and-Egypt_27724
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sumichrast, Frederick C. de (Frederick Caesar de)
+    aliases:
+    - Sumichrast, Frédéric César de
+    - Sumichrast, F. C. de (Frederick Caesar de)
+    - Sumichrast, Frederic Cesar de
+    - De Sumichrast, Frederick C. (Frederick Caesar)
+    - Sumichrast, Frederick Caesar John Martin Samuel Roussy de
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '32866'
+    url: http://www.gutenberg.org/2009/agents/32866
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Pierre-Jules-Théophile
+    - Gaultier, Theophile
+    - Gautier, Theophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+description: ''
+gutenberg_issued: '2009-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Description and travel'
+- !lcc 'PQ'
+- !lcsh 'Egypt -- Antiquities -- Fiction'
+tableOfContents: The romance of a mummy -- Egypt.
+title: "The Romance of a Mummy and Egypt\r\nThe Works of Theophile Gautier, Volume\
+  \ 5"
+url: http://www.gutenberg.org/ebooks/27724
